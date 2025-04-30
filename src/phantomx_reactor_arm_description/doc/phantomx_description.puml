@@ -1,0 +1,44 @@
+@startuml Phantomx
+title "Minpulator Phantomx Reactor Project"
+
+package phantomx_reactor_arm_description {
+    folder urdf {
+        folder macros {
+            file inertial.xacro #Orange;line:Orange;line.dashed
+            file material.xacro #Orange;line:Orange;line.dashed
+        }
+        folder sensors {
+            file rgbd_camera.xacro #Orange;line:Orange;line.dashed
+            file lidar.xacro #Orange;line:Orange;line.dashed
+        }
+        folder mechanisms {
+            file swerve.xacro #Orange;line:Orange;line.dashed
+            file wheel.xacro #Orange;line:Orange;line.dashed
+        }
+        file description.urdf.xacro #Orange;line:Orange;line.dashed
+    }
+    folder "launch files" {
+        file phantomx_reactor_wrist_rviz_demo.launch.py #Red;line:Black;
+        file phantomx_reactor_wrist_load #Red;line:Black;line.dashed
+        file rviz.launch.py #Red;line:Black;line.dashed
+    }
+    folder "robots" {
+        file phantomx_reactor_wrist.xacro.urdf #Green;line:Yellow;
+        file phantomx_reactor_no_wrist.xacro.urdf #Green;line:Yellow;line.dashed
+
+    }
+}
+
+description.urdf.xacro ..> material.xacro
+description.urdf.xacro ..> inertial.xacro
+description.urdf.xacro ..> swerve.xacro
+description.urdf.xacro ..> rgbd_camera.xacro
+description.urdf.xacro ..> lidar.xacro
+swerve.xacro ..> wheel.xacro
+
+phantomx_reactor_wrist_load ..> description.urdf.xacro
+' rviz.launch.py .left.> rsp.rviz
+phantomx_reactor_wrist_rviz_demo.launch.py .down.> phantomx_reactor_wrist_load
+phantomx_reactor_wrist_load .left.> rviz.launch.py
+phantomx_reactor_wrist.xacro.urdf .down.> phantomx_reactor_no_wrist.xacro.urdf
+@enduml

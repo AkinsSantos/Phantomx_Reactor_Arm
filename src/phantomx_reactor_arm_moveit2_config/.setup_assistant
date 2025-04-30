@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: phantomx_reactor_arm_description
+    relative_path: robots/phantomx_reactor_arm_wrist.urdf.xacro
+  srdf:
+    relative_path: config/phantomx_reactor_arm.srdf
+  package_settings:
+    author_name: Akin Santos
+    author_email: akin.santos@fbter.org.br
+    generated_timestamp: 1742999805
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity

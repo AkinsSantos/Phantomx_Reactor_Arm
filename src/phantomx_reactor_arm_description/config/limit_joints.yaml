@@ -1,0 +1,47 @@
+name:
+- shoulder_yaw_joint
+- min
+- max
+
+# <><><><><><><><><><><<><><><><><><><><><><><><><><><>
+- shoulder_pitch_joint
+- min
+- -1.666
+- max
+- 1.58
+
+- shoulder_pitch_joint_right
+- min
+- 1.631
+- max
+- -1.636
+
+# <><><><><><><><><><><<><><><><><><><><><><><><><><><>
+- elbow_pitch_joint
+- min 
+- -1.569
+- max
+- 2.142
+
+- elbow_pitch_joint_right
+- min 
+- 1.508
+- max
+- -2.203
+
+
+# -----------------------------------
+- wrist_pitch_joint
+- -0.7414229512214661
+- max
+- min
+
+- wrist_roll_joint
+- -0.18919068574905396
+- min
+- max
+
+- gripper_right_joint
+- -2.464592218399048
+- min
+- max
