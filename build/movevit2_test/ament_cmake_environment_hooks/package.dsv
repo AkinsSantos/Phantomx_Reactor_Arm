@@ -1,0 +1,4 @@
+source;share/movevit2_test/local_setup.bash
+source;share/movevit2_test/local_setup.dsv
+source;share/movevit2_test/local_setup.sh
+source;share/movevit2_test/local_setup.zsh

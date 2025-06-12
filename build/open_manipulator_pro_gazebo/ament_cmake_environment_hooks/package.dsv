@@ -1,0 +1,4 @@
+source;share/open_manipulator_pro_gazebo/local_setup.bash
+source;share/open_manipulator_pro_gazebo/local_setup.dsv
+source;share/open_manipulator_pro_gazebo/local_setup.sh
+source;share/open_manipulator_pro_gazebo/local_setup.zsh

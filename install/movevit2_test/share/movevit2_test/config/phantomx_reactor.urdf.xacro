@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="phantomx_reactor">
+    <xacro:arg name="initial_positions_file" default="initial_positions.yaml" />
+
+    <!-- Import phantomx_reactor urdf file -->
+    <xacro:include filename="$(find phantomx_reactor_arm_description)/urdf/phantomx_reactor_wrist._moveit.urdf.xacro" />
+
+    <!-- Import control_xacro -->
+    <xacro:include filename="phantomx_reactor.ros2_control.xacro" />
+
+
+    <xacro:phantomx_reactor_ros2_control name="FakeSystem" initial_positions_file="$(arg initial_positions_file)"/>
+
+</robot>

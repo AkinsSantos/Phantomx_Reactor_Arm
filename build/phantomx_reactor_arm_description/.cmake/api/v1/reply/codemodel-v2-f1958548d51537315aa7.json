@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-798d97f48cffa0317e6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "phantomx_reactor_arm_description",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "move_arm_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move_arm_client-c72479a2ce336fdea5f9.json",
+					"name" : "move_arm_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "phantomx_reactor_arm_description_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-phantomx_reactor_arm_description_uninstall-8641f453ba0d2310a3b4.json",
+					"name" : "phantomx_reactor_arm_description_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_protocol1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_protocol1-852fc8bf30b4b541ad51.json",
+					"name" : "test_protocol1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-1c491e9b6012777d159c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/akinsantos/minipulator_ws/build/phantomx_reactor_arm_description",
+		"source" : "/home/akinsantos/minipulator_ws/src/phantomx_reactor_arm_description"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

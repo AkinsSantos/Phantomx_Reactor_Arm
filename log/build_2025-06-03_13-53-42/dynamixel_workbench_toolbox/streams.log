@@ -1,0 +1,33 @@
+[0.027s] Invoking command in '/home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox -- -j8 -l8
+[0.076s] [100%] Built target dynamixel_workbench_toolbox
+[0.089s] Invoked command in '/home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox -- -j8 -l8
+[0.093s] Invoking command in '/home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox
+[0.102s] -- Install configuration: ""
+[0.102s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/lib/libdynamixel_workbench_toolbox.so
+[0.102s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include/
+[0.102s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox
+[0.102s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_tool.h
+[0.103s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_item.h
+[0.103s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_workbench.h
+[0.103s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_driver.h
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.sh
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.dsv
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/package_run_dependencies/dynamixel_workbench_toolbox
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/parent_prefix_path/dynamixel_workbench_toolbox
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.sh
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.dsv
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.sh
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.dsv
+[0.104s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.bash
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.sh
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.zsh
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.dsv
+[0.105s] -- Installing: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.dsv
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/packages/dynamixel_workbench_toolbox
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_libraries-extras.cmake
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig.cmake
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig-version.cmake
+[0.105s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.xml
+[0.113s] Invoked command in '/home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/akinsantos/minipulator_ws/build/dynamixel_workbench_toolbox

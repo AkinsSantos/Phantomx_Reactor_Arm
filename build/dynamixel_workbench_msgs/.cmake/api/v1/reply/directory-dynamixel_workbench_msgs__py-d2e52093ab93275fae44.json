@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "dynamixel_workbench_msgs__py",
+		"source" : "/home/akinsantos/minipulator_ws/build/dynamixel_workbench_msgs/dynamixel_workbench_msgs__py"
+	}
+}

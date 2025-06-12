@@ -1,0 +1,24 @@
+name:
+- shoulder_yaw_joint
+- 0.1380
+
+- shoulder_pitch_joint
+- -0.0715
+
+- shoulder_pitch_joint_right
+- 0.0460
+
+- elbow_pitch_joint
+- -0.0460
+
+- elbow_pitch_joint_right
+- 0.0516
+
+- wrist_pitch_joint
+- -0.1482
+
+- wrist_roll_joint
+- -0.0715
+
+- gripper_right_joint
+- -2.6179

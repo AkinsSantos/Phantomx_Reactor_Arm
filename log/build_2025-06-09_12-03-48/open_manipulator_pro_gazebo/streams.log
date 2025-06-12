@@ -1,0 +1,32 @@
+[0.029s] Invoking command in '/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo -- -j8 -l8
+[0.240s] Invoked command in '/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo -- -j8 -l8
+[0.250s] Invoking command in '/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo
+[0.284s] -- Install configuration: ""
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//launch
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//launch/gazebo_classic.launch.py
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//launch/gazebo_fortress.launch.py
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//launch/simulation.launch.py
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//worlds
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//worlds/wall_objects_done2.world
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//worlds/empty_gzb.sdf
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//worlds/wall_objects_done2.sdf
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//worlds/empty.sdf
+[0.284s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//objects
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//objects/grasp_box.urdf
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo//objects/grasp_box_anti_colide.urdf
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/ament_index/resource_index/package_run_dependencies/open_manipulator_pro_gazebo
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/ament_index/resource_index/parent_prefix_path/open_manipulator_pro_gazebo
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/environment/ament_prefix_path.sh
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/environment/ament_prefix_path.dsv
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/environment/path.sh
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/environment/path.dsv
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/local_setup.bash
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/local_setup.sh
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/local_setup.zsh
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/local_setup.dsv
+[0.285s] -- Installing: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/package.dsv
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/ament_index/resource_index/packages/open_manipulator_pro_gazebo
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/cmake/open_manipulator_pro_gazeboConfig.cmake
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/cmake/open_manipulator_pro_gazeboConfig-version.cmake
+[0.285s] -- Up-to-date: /home/akinsantos/minipulator_ws/install/open_manipulator_pro_gazebo/share/open_manipulator_pro_gazebo/package.xml
+[0.286s] Invoked command in '/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akinsantos/ws_moveit/install/moveit_configs_utils:/home/akinsantos/ws_moveit/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo

@@ -1,0 +1,30 @@
+
+name:
+- shoulder_yaw_joint
+- -0.1943039447069168
+- shoulder_pitch_joint
+- -1.6720366477966309
+- elbow_pitch_joint
+- -1.5544315576553345
+- wrist_pitch_joint
+- -0.7414229512214661
+- wrist_roll_joint
+- -0.18919068574905396
+- gripper_right_joint
+- -2.464592218399048
+
+joint:
+- shoulder_yaw_joint
+- shoulder_pitch_joint
+- elbow_pitch_joint
+- wrist_pitch_joint
+- wrist_roll_joint
+- gripper_right_joint
+position:
+- -0.1943039447069168
+- -1.6720366477966309
+- -1.5544315576553345
+- -0.7414229512214661
+- -0.18919068574905396
+- -2.464592218399048
+

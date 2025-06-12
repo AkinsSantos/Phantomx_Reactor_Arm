@@ -1,0 +1,25 @@
+{
+  "package_name": "dynamixel_workbench_msgs",
+  "non_idl_tuples": [
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/AX.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/EX.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/MX.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/MX2.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/MX2Ext.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/MXExt.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/PRO.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/PROExt.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/RX.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/XH.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/XL.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/XL320.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/XM.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/XMExt.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/DynamixelState.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/DynamixelStateList.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/DynamixelInfo.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:msg/DynamixelLoadInfo.msg",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:srv/GetDynamixelInfo.srv",
+    "/home/akinsantos/minipulator_ws/src/dynamixel-workbench-msgs/dynamixel_workbench_msgs:srv/DynamixelCommand.srv"
+  ]
+}

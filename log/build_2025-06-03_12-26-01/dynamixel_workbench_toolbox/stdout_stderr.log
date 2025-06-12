@@ -1,0 +1,30 @@
+[35m[1mConsolidate compiler generated dependencies of target dynamixel_workbench_toolbox[0m
+[100%] Built target dynamixel_workbench_toolbox
+-- Install configuration: ""
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/lib/libdynamixel_workbench_toolbox.so
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include/
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_tool.h
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_item.h
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_workbench.h
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_driver.h
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.sh
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.dsv
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/package_run_dependencies/dynamixel_workbench_toolbox
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/parent_prefix_path/dynamixel_workbench_toolbox
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.sh
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.sh
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.dsv
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.bash
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.sh
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.zsh
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.dsv
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.dsv
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/packages/dynamixel_workbench_toolbox
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig.cmake
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig-version.cmake
+-- Up-to-date: /home/akinsantos/minipulator_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.xml

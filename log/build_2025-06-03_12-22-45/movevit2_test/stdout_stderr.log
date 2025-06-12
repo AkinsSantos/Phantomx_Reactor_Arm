@@ -1,0 +1,60 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/akinsantos/minipulator_ws/build/movevit2_test
+-- Install configuration: ""
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/ament_index/resource_index/package_run_dependencies/movevit2_test
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/ament_index/resource_index/parent_prefix_path/movevit2_test
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/environment/ament_prefix_path.sh
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/environment/ament_prefix_path.dsv
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/environment/path.sh
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/environment/path.dsv
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/local_setup.bash
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/local_setup.sh
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/local_setup.zsh
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/local_setup.dsv
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/package.dsv
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/ament_index/resource_index/packages/movevit2_test
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/cmake/movevit2_testConfig.cmake
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/cmake/movevit2_testConfig-version.cmake
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/package.xml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/rsp.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/spawn_controllers.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/warehouse_db.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/setup_assistant.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/move_group.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/demo.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/bringup_controllers.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/controllers_launch.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/launch/moveit_rviz.launch.py
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/initial_positions.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/pilz_cartesian_limits.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/moveit.rviz
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/kinematics.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/moveit_controllers.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/phantomx_reactor.ros2_control.xacro
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/phantomx_reactor.urdf.xacro
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/phantomx_reactor.srdf
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/sensors_3d.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/new_controllers.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/ros2_controllers.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/urdf
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/urdf/phantomx_reactor_wrist._moveit.urdf.xacro
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/config/joint_limits.yaml
+-- Installing: /home/akinsantos/minipulator_ws/install/movevit2_test/share/movevit2_test/.setup_assistant

@@ -1,0 +1,3 @@
+
+
+bool comm_result

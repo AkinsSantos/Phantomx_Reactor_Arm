@@ -1,0 +1,48 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 50 # Hz
+    read_rate: 15
+    write_rate: 25 
+
+    velocity_controller:
+      type: velocity_controllers/JointGroupVelocityController
+
+    joint_trajectory_controller:
+      type: joint_trajectory_controller/JointTrajectoryController
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+velocity_controller:
+  ros__parameters:
+    joints:
+      - shoulder_yaw_joint
+#       - shoulder_pitch_joint
+#       # - shoulder_pitch_joint_right
+#       # - elbow_pitch_joint_right
+#       - elbow_pitch_joint
+#       - wrist_pitch_joint
+#       - wrist_roll_joint
+#       - gripper_right_joint
+
+joint_trajectory_controller:
+  ros__parameters:
+    joints:
+
+      - shoulder_yaw_joint
+      # - shoulder_pitch_joint
+      # # - shoulder_pitch_joint_right
+      # # - elbow_pitch_joint_right
+      # - elbow_pitch_joint 
+      # - wrist_pitch_joint
+      # - wrist_roll_joint
+      # - gripper_right_joint
+    # state_publish_rate: 100
+
+    command_interfaces:
+      - position
+
+    state_interfaces:
+      - position
+      - velocity
+      # - effort

@@ -1,0 +1,4 @@
+source;share/phantomx_reactor_arm_moveit2_config/local_setup.bash
+source;share/phantomx_reactor_arm_moveit2_config/local_setup.dsv
+source;share/phantomx_reactor_arm_moveit2_config/local_setup.sh
+source;share/phantomx_reactor_arm_moveit2_config/local_setup.zsh
