@@ -1,9 +1,0 @@
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/uninstall.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/open_manipulator_pro_gazebo_uninstall.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/test.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/edit_cache.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/rebuild_cache.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/list_install_components.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/install.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/install/local.dir
-/home/akinsantos/minipulator_ws/build/open_manipulator_pro_gazebo/CMakeFiles/install/strip.dir

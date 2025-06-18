@@ -1,4 +1,0 @@
-# generated from rosidl_cmake/cmake/rosidl_cmake-extras.cmake.in
-
-set(dynamixel_workbench_msgs_IDL_FILES "msg/AX.idl;msg/EX.idl;msg/MX.idl;msg/MX2.idl;msg/MX2Ext.idl;msg/MXExt.idl;msg/PRO.idl;msg/PROExt.idl;msg/RX.idl;msg/XH.idl;msg/XL.idl;msg/XL320.idl;msg/XM.idl;msg/XMExt.idl;msg/DynamixelState.idl;msg/DynamixelStateList.idl;msg/DynamixelInfo.idl;msg/DynamixelLoadInfo.idl;srv/GetDynamixelInfo.idl;srv/DynamixelCommand.idl")
-set(dynamixel_workbench_msgs_INTERFACE_FILES "msg/AX.msg;msg/EX.msg;msg/MX.msg;msg/MX2.msg;msg/MX2Ext.msg;msg/MXExt.msg;msg/PRO.msg;msg/PROExt.msg;msg/RX.msg;msg/XH.msg;msg/XL.msg;msg/XL320.msg;msg/XM.msg;msg/XMExt.msg;msg/DynamixelState.msg;msg/DynamixelStateList.msg;msg/DynamixelInfo.msg;msg/DynamixelLoadInfo.msg;srv/GetDynamixelInfo.srv;srv/GetDynamixelInfo_Request.msg;srv/GetDynamixelInfo_Response.msg;srv/DynamixelCommand.srv;srv/DynamixelCommand_Request.msg;srv/DynamixelCommand_Response.msg")

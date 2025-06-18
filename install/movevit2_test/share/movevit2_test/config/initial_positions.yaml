@@ -1,9 +1,0 @@
-# Default initial positions for phantomx_reactor's ros2_control fake system
-
-initial_positions:
-  elbow_pitch_joint: 0
-  gripper_right_joint: 0.01
-  shoulder_pitch_joint: 0
-  shoulder_yaw_joint: 0
-  wrist_pitch_joint: 0
-  wrist_roll_joint: 0
